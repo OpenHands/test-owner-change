@@ -4,6 +4,8 @@ A simple repository with a tiny Docker container and automated publishing to Git
 
 ## Docker Image
 
+
+
 This repository contains a minimal Alpine Linux-based Docker image that includes:
 - Basic utilities (curl)
 - A simple hello script
